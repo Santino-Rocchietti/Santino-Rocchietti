@@ -1,6 +1,10 @@
 ## Hi there 👋
 Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santino-rocchietti&label=Profile%20views&color=0e75b6&style=flat" alt="santino-rocchietti" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santino-rocchietti" alt="santino-rocchietti" /></a> </p>
+
 # Tech Skills
 ## My Tech Stack
 <p align='center'>
