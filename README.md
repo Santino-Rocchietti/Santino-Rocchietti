@@ -33,6 +33,13 @@ Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinorocchiettia&show_icons=true&locale=en&layout=compact" alt="santinorocchiettia" />
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santinorocchiettia&show_icons=true&locale=en" alt="santinorocchiettia" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santinorocchiettia&" alt="santinorocchiettia" /></p>
 ## Contact 
 
 <p align="center">
