@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to mi github profile! I am Sofia, a 18 years old Data Scientist 💻
+Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 
 # Tech Skills
 ## My Tech Stack
