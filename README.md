@@ -33,16 +33,18 @@ Welcome to mi github profile! I am Sofia, a 18 years old Data Scientist 💻
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-**Santino-Rocchietti/Santino-Rocchietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact 
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318">
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
+    </a>
+      <a href="https://github.com/Santino-Rocchietti">
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/github-154-675675.png' alt='github' height='60'>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5493517166724">
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
