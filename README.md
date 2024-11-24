@@ -34,12 +34,12 @@ Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinorocchiettia&show_icons=true&locale=en&layout=compact" alt="santinorocchiettia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinorocchietti&show_icons=true&locale=en&layout=compact" alt="santinorocchietti" />
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santinorocchiettia&show_icons=true&locale=en" alt="santinorocchiettia" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santinorocchietti&show_icons=true&locale=en" alt="santinorocchietti" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santinorocchiettia&" alt="santinorocchiettia" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santinorocchietti&" alt="santinorocchietti" /></p>
 ## Contact 
 
 <p align="center">
