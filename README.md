@@ -72,8 +72,7 @@ Contact me! I’d love to hear your thoughts.
       <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
     </a>
       <a href="https://github.com/Santino-Rocchietti">
-      <img src='![image](https://github.com/user-attachments/assets/6508d61c-8213-43b4-91d7-bb0b1d4c655d)
-' alt='github' height='60'>
+      <img src='[image](https://github.com/user-attachments/assets/6508d61c-8213-43b4-91d7-bb0b1d4c655d)' alt='github' height='60'>
     </a>
     <a href="https://api.whatsapp.com/send?phone=5493517166724">
       <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
