@@ -44,7 +44,7 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
 <div align="center">
   👨‍💻 All of my projects are available <a href="https://github.com/Santino-Rocchietti?tab=repositories">here</a>
 </div>
-## My GitHub Stats
+##My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santino-rocchietti&show_icons=true&locale=en&layout=compact" alt="santino-rocchietti" />
