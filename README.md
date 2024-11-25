@@ -58,9 +58,13 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
 
 ## Contact 
 
+
+Would you like to contribute to a project, give me your opinion, collaborate with me, or propose something?
+Contact me! I’d love to hear your thoughts.
 <div align="center">
-  📫 How to reach me **santirocchietti777@gmail.com**
+    📫 How to reach me santirocchietti777@gmail.com
 </div>
+
 
 
 <p align="center">
