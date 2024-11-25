@@ -9,6 +9,14 @@ Welcome to mi github profile!
 
 I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals.I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
 
+Here are 5 fun facts about me:
+
+1- I enjoy mathematics and philosophy; they fascinate me and keep my curiosity alive.
+2- My favorite programming language is Python—it’s elegant, powerful, and versatile.
+3- I absolutely love traveling; exploring new places and cultures is one of my passions.
+4- I enjoy playing the guitar; it’s my way of relaxing and expressing creativity.
+5- I’m eager to learn more about artificial intelligence and its potential to shape the future.
+
 # Tech Skills
 ## My Tech Stack
 <p align='center'>
@@ -56,7 +64,7 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
 </div>
 
 
-
+##
 ## Contact 
 
 
