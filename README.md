@@ -91,8 +91,8 @@ Contact me! I’d love to hear your thoughts.
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Santino Martín Rocchietti" height="40" width="40" /></a>
-<a href="https://github.com/Santino-Rocchietti" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github Santino Martín Rocchietti" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Santino Martín Rocchietti" height="50" width="50" /></a>
+<a href="https://github.com/Santino-Rocchietti" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github Santino Martín Rocchietti" height="50" width="50" /></a>
 </p>
 
 ---
