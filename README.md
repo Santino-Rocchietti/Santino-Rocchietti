@@ -8,7 +8,9 @@ Welcome to my github profile!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santino-rocchietti" alt="santino-rocchietti" /></a> </p>
 
-## About me
+<div align="center">
+  <h2>About Me</h2>
+</div>
 
 I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals. I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
 
@@ -24,8 +26,10 @@ Here are 5 fun facts about me:
 
 5- I’m eager to learn more about artificial intelligence and its potential to shape the future.
 
-# Tech Skills
-## My Tech Stack
+<div align="center">
+<h1>Tech Skills</h1>
+</div>
+
 <p align='center'>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -60,7 +64,9 @@ Here are 5 fun facts about me:
   👨‍💻 All of my projects are available <a href="https://github.com/Santino-Rocchietti?tab=repositories">here</a>
 </div>
 
-## My GitHub Stats
+<div align="center">
+  <h2>My Github States 👋</h2>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santino-rocchietti&show_icons=true&locale=en&layout=compact" alt="santino-rocchietti" />
@@ -71,8 +77,9 @@ Here are 5 fun facts about me:
 </div>
 
 
-##
-## Contact 
+<div align="center">
+  <h2>Contact</h2>
+</div>
 
 
 Would you like to contribute to a project, give me your opinion, collaborate with me, or propose something?
