@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
+Welcome to mi github profile! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santino-rocchietti&label=Profile%20views&color=0e75b6&style=flat" alt="santino-rocchietti" /> </p>
 
@@ -7,7 +7,7 @@ Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 
 ## About me
 
-I'm Santino, an 18-year-old Data Scientist. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals.I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
+I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals.I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
 
 # Tech Skills
 ## My Tech Stack
@@ -41,13 +41,14 @@ I'm Santino, an 18-year-old Data Scientist. I enjoy collaborating as part of a t
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santino-rocchietti&show_icons=true&locale=en&layout=compact" alt="santino-rocchietti" />
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santino-rocchietti&" alt="santino-rocchietti" />
 </div>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santino-Rocchietti?tab=repositories](https://github.com/Santino-Rocchietti?tab=repositories)
