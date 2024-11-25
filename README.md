@@ -10,7 +10,7 @@ Welcome to my github profile!
 
 ## About me
 
-I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals.I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
+I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals. I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
 
 Here are 5 fun facts about me:
 
