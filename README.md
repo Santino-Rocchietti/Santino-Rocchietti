@@ -41,6 +41,7 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
+- 👨‍💻 All of my projects are available [here](https://github.com/Santino-Rocchietti?tab=repositories)
 ## My GitHub Stats
 
 <div align="center">
@@ -51,9 +52,6 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santino-rocchietti&" alt="santino-rocchietti" />
 </div>
 
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Santino-Rocchietti?tab=repositories](https://github.com/Santino-Rocchietti?tab=repositories)
 
 
 ## Contact 
