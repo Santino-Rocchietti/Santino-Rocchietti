@@ -12,9 +12,13 @@ I'm Santino, an 18-year-old Data Scientist💻. I enjoy collaborating as part of
 Here are 5 fun facts about me:
 
 1- I enjoy mathematics and philosophy; they fascinate me and keep my curiosity alive.
+
 2- My favorite programming language is Python—it’s elegant, powerful, and versatile.
+
 3- I absolutely love traveling; exploring new places and cultures is one of my passions.
+
 4- I enjoy playing the guitar; it’s my way of relaxing and expressing creativity.
+
 5- I’m eager to learn more about artificial intelligence and its potential to shape the future.
 
 # Tech Skills
