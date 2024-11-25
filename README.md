@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h2>
+</div>
+
 Welcome to mi github profile! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santino-rocchietti&label=Profile%20views&color=0e75b6&style=flat" alt="santino-rocchietti" /> </p>
