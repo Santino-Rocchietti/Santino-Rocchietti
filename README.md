@@ -5,6 +5,10 @@ Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santino-rocchietti" alt="santino-rocchietti" /></a> </p>
 
+## About me
+
+I'm Santino, an 18-year-old Data Scientist. I enjoy collaborating as part of a team because it allows me to learn from others and work together to achieve meaningful goals.I’m passionate about using data to uncover insights and solve complex problems, and I love infusing creativity into my projects. I’m always open to learning and adapting to whatever challenges come my way!
+
 # Tech Skills
 ## My Tech Stack
 <p align='center'>
@@ -43,10 +47,10 @@ Welcome to mi github profile! I am Santino, a 18 years old Data Scientist 💻
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santino-Rocchietti?tab=repositories](https://github.com/Santino-Rocchietti?tab=repositories)
 
-- 📫 How to reach me **santirocchietti777@gmail.com**
 
 ## Contact 
 
+- 📫 How to reach me **santirocchietti777@gmail.com**
 <p align="center">
     <a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318">
       <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
