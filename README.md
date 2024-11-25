@@ -91,15 +91,8 @@ Contact me! I’d love to hear your thoughts.
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
-    </a>
-      <a href="https://github.com/Santino-Rocchietti">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/github-154-675675.png' alt='github' height='60'>
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5493517166724">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
-    </a>
+<a href="https://www.linkedin.com/in/santino-mart%C3%ADn-rocchietti-7aa0b7318/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Santino Martín Rocchietti" height="40" width="40" /></a>
+<a href="https://github.com/Santino-Rocchietti" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github Santino Martín Rocchietti" height="40" width="40" /></a>
 </p>
 
 ---
