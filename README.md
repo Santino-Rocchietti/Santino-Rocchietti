@@ -85,7 +85,7 @@ Here are 5 fun facts about me:
 Would you like to contribute to a project, give me your opinion, collaborate with me, or propose something?
 Contact me! I’d love to hear your thoughts.
 <div align="center">
-    📫 How to reach me santirocchietti777@gmail.com
+     <strong> 📫 How to reach me santirocchietti777@gmail.com
 </div>
 
 <br>
